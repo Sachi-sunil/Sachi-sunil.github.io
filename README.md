@@ -24,7 +24,6 @@ I’m a UI/UX Designer excited about creating user-centered designs that are bot
 ## 🌐 Let's Connect
 Feel free to reach out to me on www.linkedin.com/in/sachin-s-744711291
 
-## 📈 GitHub Stats
-!(https://github-readme-stats.vercel.app/api?Sachi-sunil=Sachi-sunil&show_icons=true&theme=radical)
+
 
 
